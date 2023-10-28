@@ -10,7 +10,7 @@ Research into the THOR project concept by MFMP of Inventor Malcolm Bendall's dev
 
 # Research Notes by MKemp
 
-The MFMP document by Nykyta Vovk are very detailed and include scientific equations, these notes will be much simpler, there are some things we disagree with like the more complicated diagram being used instead of the simpler one as most devices have been demonstrated without the recirculation of exhaust gases. The Ranque-Hilsche vortex tube is an open system where as the devices demonstrated are closed heatexchangers, we understand this was given at the tesla tech backstage demo to illustrate the counter vortex flows only. We think these points may have caused some confusion in the community. The document also refers to the device as Vortex Generator Retrofit(VGR), We will use the inventors initials with appended D* all caps, eg MBD* to refer to each device going forwards in this write up of our notes. 
+The MFMP document by Nykyta Vovk is very detailed and includes scientific equations, these notes will be much simpler, there are some things we disagree with like the more complicated diagram being used instead of the simpler one as most devices have been demonstrated without the recirculation of exhaust gases. The Ranque-Hilsche vortex tube is an open system where as the devices demonstrated are closed heatexchangers, we understand this was given at the tesla tech backstage demo to illustrate the counter vortex flows only. We think these points may have caused some confusion in the community. The document also refers to the device as Vortex Generator Retrofit(VGR), We will use the inventors initials with appended D* all caps, eg MBD* to refer to each device going forwards in this write up of our notes. 
 
 The MBD* system is very similar to the GEET system by Paul Pantone (PPD*), to which we were motivated to investigate earlier this year due to the potential exotic plasma effects, however our efforts failed to replicate the PPD* system. We elected to use the carburettor and omit the bubbler (we beleive this is where our failure stems from). In addition to the bubbler the MBD* employs a UV light. 
 
@@ -83,7 +83,7 @@ Also under normal non-ionised condition the gas bubble is surrounded by negative
 
 ![image](https://github.com/open-scientific/MFMP-THOR/assets/13536174/f047510f-6148-4219-a292-32f24fa421c5)
 
-long lived nano bubbles require ionised gasses to bind at the gas/liquid interface (need to find ref).
+long lived nano bubbles require ionised gasses to bind at the gas/liquid interface (need to refind ref).
 
 #### Other ways to create nano bubbles
 
@@ -107,7 +107,7 @@ Vortex cavitation is more agressive than spherical cavitation. Vortex cavitation
 
 ## Heat Exchanger/Reactor
 
-The vortex claim, reminded ourselve of modifications done to race cars so we investigate that and also consider water/steam injection in aviation and car history aka water doping. Bob Greenyer also introduces a new angle of Partial Oxidation in steam reforming with a nickel catalyst as well as the more exotic plasma transmutations.
+The vortex claim, reminded ourself of modifications done to race cars so we investigate that and also consider water/steam injection in aviation and car history aka water doping. Bob Greenyer also introduces a new angle of Partial Oxidation in steam reforming with a nickel catalyst as well as the more exotic plasma transmutations.
 
 ### Exhaust vortex in racing
 
@@ -131,8 +131,12 @@ Bob Greenyer once again raises the role of the 'armstrong effect' 1840 which is 
 
 ## Summary 
 
-There could 3 modes, a basic mode, a chemical mode and an exotic mode.
+There could 3 modes, a basic mode, a chemical mode and an exotic mode. We don't understand the latter two enough, so assume we are wrong 
 
 In basic mode; the UV and copper oxide will create some browns gas, the bubbler will aerosolise some water molecules, the heat exchanger will create steam and it's vortex aspects will help move the exhaust and intake charges. you may see +20% BHP +20% Torque +5-14 MPG -33% Emmissions, This is great!
 
-In chemical mode; 
+In chemical mode; the UV and copper oxide will create some browns gas, something happens in the middle(need to learn more), then clean syngas of one form or another can be combusted with lesser pollutants, unsure of the stats.
+
+In exotic mode; the UV and copper oxide will create some browns gas and ionise some particles, the bubbler via pressure waves will create nano bubbles that collapse and cavitate on the steel transmuting and gasifying some particles as the charged cluster grows, C N O H enters the heat exchanger and some charged clusters may collapse transmuting some elements into a syngas that is combusted in the engine where more charged clusters collapse and transmute the carbons into something else eliminating pollutants.
+
+Our initial understanding was the bubbles played the key role and that the UV was to support their lifecycle to ensure they lived long enough to shrink and collapse more often. We need to understand the chemistry and atoms and what takes places from the heat exchanger onwards, our understanding is still crude/basic. 
