@@ -121,7 +121,7 @@ During WW2 spitfires had an emergency water injection mode. This gave the engine
 
 Actual Steam injection is used to reduce NOx emmissions and boost power, chilling effect is vastly reduced and demineralised water is required.
 
-Our view is that any water vapour will flash into steam, so any chilling or condesing of mixture is unlikely to play a role.
+Our view is that any water vapour will flash into steam, so any chilling or condesing of mixture is unlikely to play a role and methanol is not added either.
 
 ### Electrostatics role
 
@@ -131,7 +131,7 @@ Bob Greenyer once again raises the role of the 'armstrong effect' 1840 which is 
 
 ## Summary 
 
-There could 3 modes, a basic mode, a chemical mode and an exotic mode. We don't understand the latter two enough, so assume we are wrong 
+There could be 3 modes, a basic mode, a chemical mode and an exotic mode. We don't understand the latter two enough, so assume we are wrong. 
 
 In basic mode; the UV and copper oxide will create some browns gas, the bubbler will aerosolise some water molecules, the heat exchanger will create steam and it's vortex aspects will help move the exhaust and intake charges. you may see +20% BHP +20% Torque +5-14 MPG -33% Emmissions, This is great!
 
