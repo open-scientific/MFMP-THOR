@@ -6,7 +6,7 @@ Research into the THOR project concept by MFMP of Inventor Malcolm Bendall's dev
 - [Inventors Website](https://www.strikefoundation.earth/open-source-research)
 - [MFMP Project THOR](http://www.quantumheat.org/index.php/en/home/mfmp-blog/560-thor)
 - [MFMP Videos by Bob Greenyer](https://www.youtube.com/@MFMP)
-- [MFMP Vidoe Series on THOR](https://www.youtube.com/watch?v=iJ7OOU6lEWI&list=PLBgQorZu_mLnXLxYlvTv8ojoa2BRsx_o2)
+- [MFMP Video Series on THOR](https://www.youtube.com/watch?v=iJ7OOU6lEWI&list=PLBgQorZu_mLnXLxYlvTv8ojoa2BRsx_o2)
 
 # Research Notes by MKemp
 
