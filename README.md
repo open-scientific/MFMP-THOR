@@ -8,11 +8,11 @@ Research into the THOR project concept by MFMP of Inventor Malcolm Bendall's dev
 - [MFMP Videos by Bob Greenyer](https://www.youtube.com/@MFMP)
 - [MFMP Video Series on THOR](https://www.youtube.com/watch?v=iJ7OOU6lEWI&list=PLBgQorZu_mLnXLxYlvTv8ojoa2BRsx_o2)
 
-# Research Notes by MKemp
+# Research Notes by M.Kemp
 
 The MFMP document by Nykyta Vovk is very detailed and includes scientific equations, these notes will be much simpler, there are some things we disagree with like the more complicated diagram being used instead of the simpler one as most devices have been demonstrated without the recirculation of exhaust gases. The Ranque-Hilsche vortex tube is an open system where as the devices demonstrated are closed heatexchangers, we understand this was given at the tesla tech backstage demo to illustrate the counter vortex flows only. We think these points may have caused some confusion in the community. The document also refers to the device as Vortex Generator Retrofit(VGR), We will use the inventors initials with appended D* all caps, eg MBD* to refer to each device going forwards in this write up of our notes. 
 
-The MBD* system is very similar to the GEET system by Paul Pantone (PPD*), to which we were motivated to investigate earlier this year due to the potential exotic plasma effects, however our efforts failed to replicate the PPD* system. We elected to use the carburettor and omit the bubbler (we believe this is where our failure stems from). In addition to the bubbler the MBD* employs a UV light. 
+The MBD* system is very similar to the GEET system by Paul Pantone (PPD*), to which we were motivated to investigate earlier this year due to the potential exotic plasma effects, however our efforts failed to replicate the PPD* system. We elected to use the carburettor and omit the bubbler (we believe this is where our failure stems from). In addition to the bubbler the MBD* employs a UV light and geometric differences in the heat exchanger. 
 
 ## UV - Ioniser 
 
