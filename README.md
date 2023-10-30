@@ -18,10 +18,6 @@ The MBD* system is very similar to the GEET system by Paul Pantone (PPD*), to wh
 
 The importance of this part of the MBD* system was a curiosity and 100um was mentioned as a key frequency. So to start we begin by looking at what UV light can do!
 
-- [REF A](https://steril-aire.com/does-uv-light-generate-ozone/)
-- [REF B](https://www.oxidationtech.com/ozone/ozone-production/uv-lamp.html)
-- [REF C](http://solar-center.stanford.edu/about/uvlight.html)
-
 ![image](./assets/image-uv1.png)
 
 ![image](./assets/image-uv2.png)
@@ -39,6 +35,10 @@ Ok so looking at the diagrams 100nm is in that range, so the um could be a mista
 - O3, Magnetic Moment x680, is paramagnetic
 
 So by giving our air the strongest level of ionisation we are setting the gas up to form highly charged particles for the next phase of the system. By studying nano bubbles we were able to find a reference stating that this ionisation would also prevent the premature collapse of the nano bubbles, hold on to this thought. What Bob did highlight is that the copper oxide and UV would have a photoelectric and photocatalytic effect of splitting water into Browns gas if the air intake was moist enough but not too much so as to prevent charge clusters building up potential, perhaps even some moisture may work its way backwards from the bubbler.
+
+- [REF A](https://steril-aire.com/does-uv-light-generate-ozone/)
+- [REF B](https://www.oxidationtech.com/ozone/ozone-production/uv-lamp.html)
+- [REF C](http://solar-center.stanford.edu/about/uvlight.html)
 
 ## Bubbler
 
