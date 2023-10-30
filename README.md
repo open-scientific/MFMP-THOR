@@ -22,7 +22,7 @@ The importance of this part of the MBD* system was a curiosity and 100um was men
 - [REF B](https://www.oxidationtech.com/ozone/ozone-production/uv-lamp.html)
 - [REF C](http://solar-center.stanford.edu/about/uvlight.html)
 
-![image](https://github.com/open-scientific/MFMP-THOR/assets/image-uv1.png)
+![image](./assets/image-uv1.png)
 
 ![image](https://github.com/open-scientific/MFMP-THOR/assets/image-uv2.png)
 
