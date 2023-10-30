@@ -16,6 +16,8 @@ The MBD* system is very similar to the GEET system by Paul Pantone (PPD*), to wh
 
 ## UV - Ioniser 
 
+![image](./assets/ioniser.png)
+
 The importance of this part of the MBD* system was a curiosity and 100um was mentioned as a key frequency. So to start we begin by looking at what UV light can do!
 
 ![image](./assets/image-uv1.png)
@@ -42,7 +44,9 @@ So by giving our air the strongest level of ionisation we are setting the gas up
 
 ## Bubbler
 
-The main clue was a concern over the bubble size, So this lead to researching nano bubbles and cavitation or the latter lead to the former. 
+![image](./assets/bubbler.png)
+
+Why is this component important, it has water stainless steel and bubbles? The main clue was a concern over the bubble size, So this lead to researching nano bubbles and cavitation or the latter lead to the former. 
 
 ### Nano bubbles
 
@@ -112,6 +116,12 @@ Vortex cavitation is more agressive than spherical cavitation. Vortex cavitation
 TODO: Add drawings for hydrosonic pump, oxydoser and venturi type tubes, turbine like stator structure and global cavitation device comparisons...
 
 ## Heat Exchanger/Reactor
+
+![image](./assets/schematic-change.png)
+
+What value does this component add to the system? The heat will add higher vibrational energy since that is what defines heat. So the incoming atoms will collect this radiation and move faster. Some elements may change phases which may bring endothermic or exothermic chemical reactions.
+
+There is the claim of cooling in the centre of the reactor, could this be the endothermic chemical reaction, ?hydrogen steam reforming, partial oxidisation with a nickel catalyst 316L grade steel? (Need to better understand what Bob said).
 
 The vortex claim, makes one think of modifications done to race cars so we investigate that and also consider water/steam injection in aviation and car history aka water doping. Bob Greenyer also introduces a new angle of Partial Oxidation in steam reforming with a nickel catalyst as well as the possibility of more exotic lenr reactions.
 
