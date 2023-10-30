@@ -38,7 +38,7 @@ Ok so looking at the diagrams 100nm is in that range, so the um could be a mista
 - O2, Magnetic Moment x17860, is paramagnetic
 - O3, Magnetic Moment x680, is paramagnetic
 
-So by giving our air the strongest level of ionisation we are setting the gas up to form highly charged particles for the next phase of the system. By studying nano bubbles we were able to find a reference stating that this ionisation would also prevent the premature collapse of the nano bubbles, hold on to this thought. What Bob did highlight is that the copper oxide and UV would have a photocatalytic effect of splitting water into Browns gas if the air intake was moist enough but not too much so as to prevent charge cllusters, perhaps even some moisture may work its way backwards from the bubbler.
+So by giving our air the strongest level of ionisation we are setting the gas up to form highly charged particles for the next phase of the system. By studying nano bubbles we were able to find a reference stating that this ionisation would also prevent the premature collapse of the nano bubbles, hold on to this thought. What Bob did highlight is that the copper oxide and UV would have a photoelectric and photocatalytic effect of splitting water into Browns gas if the air intake was moist enough but not too much so as to prevent charge clusters building up potential, perhaps even some moisture may work its way backwards from the bubbler.
 
 ## Bubbler
 
