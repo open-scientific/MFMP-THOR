@@ -22,13 +22,13 @@ The importance of this part of the MBD* system was a curiosity and 100um was men
 - [REF B](https://www.oxidationtech.com/ozone/ozone-production/uv-lamp.html)
 - [REF C](http://solar-center.stanford.edu/about/uvlight.html)
 
-![image](https://github.com/open-scientific/MFMP-THOR/assets/13536174/f8b540a1-57aa-4697-b12b-2c0af0e45634)
+![image](https://github.com/open-scientific/MFMP-THOR/assets/image-uv1.png)
 
-![image](https://github.com/open-scientific/MFMP-THOR/assets/13536174/e42721f7-0515-464b-927e-7aab761c6420)
+![image](https://github.com/open-scientific/MFMP-THOR/assets/image-uv2.png)
 
-![image](https://github.com/open-scientific/MFMP-THOR/assets/13536174/24e10d93-7513-4206-a65a-41e649c379f2)
+![image](https://github.com/open-scientific/MFMP-THOR/assets/image-uv3.png)
 
-![image](https://github.com/open-scientific/MFMP-THOR/assets/13536174/29456c26-cbbb-476e-a267-2160caae9c66)
+![image](https://github.com/open-scientific/MFMP-THOR/assets/image-uv4.png)
 
 Ok so looking at the diagrams 100nm is in that range, so the um could be a mistake! We also need to consider what Bob Greenyer says about Oxygen and it's magnetic interactions and magnetic moment, along with electron spin, CNO Cycle and ionisation (Makes REF to Moray B King and Paul Koloc). So in order to create the best type of oxygen being O2 we can use a bulb at ideally 254nm wavelength but up to 300nm is fine.
 
