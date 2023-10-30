@@ -127,7 +127,7 @@ Our view is that any water vapour will flash into steam, so any chilling or cond
 
 water vapour/steam traverses most of the components. Water molecules will act as charge carriers and if charge seperation occurs will lead to positive/negative biases in parts of the system, think of lord Kelvins water droplet device.
 
-Bob Greenyer once again raises the role of the 'armstrong effect' 1840 which is quite fascinating.
+Bob Greenyer once again raises the role of the 'armstrong effect' 1840 which is a quite fascinating steam boiler electrostatic generator which was the most powerful device until it was replaced by the wimhurst machine.
 
 ## Summary 
 
@@ -135,8 +135,4 @@ There could be 3 modes, a basic mode, a chemical mode and an exotic mode. We don
 
 In basic mode; the UV and copper oxide will create some browns gas, the bubbler will aerosolise some water molecules, the heat exchanger will create steam and it's vortex aspects will help move the exhaust and intake charges. you may see +20% BHP +20% Torque +5-14 MPG -33% Emmissions, This is great!
 
-In chemical mode; the UV and copper oxide will create some browns gas, something happens in the middle(need to learn more), then clean syngas of one form or another can be combusted with lesser pollutants, unsure of the stats.
-
-In exotic mode; the UV and copper oxide will create some browns gas and ionise some particles, the bubbler via pressure waves will create nano bubbles that collapse and cavitate on the steel transmuting and gasifying some particles as the charged cluster grows, C N O H enters the heat exchanger and some charged clusters may collapse transmuting some elements into a syngas that is combusted in the engine where more charged clusters collapse and transmute the carbons into something else eliminating pollutants.
-
-Our initial understanding was the bubbles played the key role and that the UV was to support their lifecycle to ensure they lived long enough to shrink and collapse more often. We need to understand the chemistry and atoms and what takes places from the heat exchanger onwards, our understanding is still crude/basic. 
+Our initial understanding was the bubbles played a key role and that the UV was to support their lifecycle to ensure they lived long enough to shrink and collapse more often. During bubble collapse a plasma state is reached, We understand that if there is enough potential energy that atoms can transmutate into heavier or lighter elements.  We need to better understand the chemistry and physics and what takes places from the heat exchanger onwards, our understanding is still developing.
