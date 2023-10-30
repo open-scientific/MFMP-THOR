@@ -14,6 +14,8 @@ The MFMP document by Nykyta Vovk is very detailed and includes scientific equati
 
 The MBD* system is very similar to the GEET system by Paul Pantone (PPD*), to which we were motivated to investigate earlier this year due to the potential exotic plasma effects, however our efforts failed to replicate the PPD* system. We elected to use the carburettor and omit the bubbler (we believe this is where our failure stems from). In addition to the bubbler the MBD* employs a UV light and geometric differences in the heat exchanger. 
 
+![image](./assets/diagram.png)
+
 ## UV - Ioniser 
 
 ![image](./assets/ioniser.png)
@@ -119,7 +121,7 @@ TODO: Add drawings for hydrosonic pump, oxydoser and venturi type tubes, turbine
 
 ![image](./assets/schematic-change.png)
 
-What value does this component add to the system? The heat will add higher vibrational energy since that is what defines heat. So the incoming atoms will collect this radiation and move faster. Some elements may change phases which may bring endothermic or exothermic chemical reactions.
+What value does this component add to the system? The heat will add higher vibrational energy since that is what defines heat. So the incoming atoms will collect this radiation and move faster, more speed more collisions? particle accelarator. Some elements may change phases which may bring endothermic or exothermic chemical reactions.
 
 There is the claim of cooling in the centre of the reactor, could this be the endothermic chemical reaction, ?hydrogen steam reforming, partial oxidisation with a nickel catalyst 316L grade steel? (Need to better understand what Bob said).
 
