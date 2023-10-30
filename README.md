@@ -24,11 +24,11 @@ The importance of this part of the MBD* system was a curiosity and 100um was men
 
 ![image](./assets/image-uv1.png)
 
-![image](https://github.com/open-scientific/MFMP-THOR/assets/image-uv2.png)
+![image](./assets/image-uv2.png)
 
-![image](https://github.com/open-scientific/MFMP-THOR/assets/image-uv3.png)
+![image](./assets/image-uv3.png)
 
-![image](https://github.com/open-scientific/MFMP-THOR/assets/image-uv4.png)
+![image](./assets/image-uv4.png)
 
 Ok so looking at the diagrams 100nm is in that range, so the um could be a mistake! We also need to consider what Bob Greenyer says about Oxygen and it's magnetic interactions and magnetic moment, along with electron spin, CNO Cycle and ionisation (Makes REF to Moray B King and Paul Koloc). So in order to create the best type of oxygen being O2 we can use a bulb at ideally 254nm wavelength but up to 300nm is fine.
 
@@ -53,7 +53,7 @@ The main clue was a concern over the bubble size, So this lead to researching na
 - When Nano bubble solutions are shocked, they join into micro bubbles and fizz out.
 - Nano bubbles affect surface tension.
 
-  ![image](https://github.com/open-scientific/MFMP-THOR/assets/13536174/70bbb667-2430-477f-80db-644f82a82cd3)
+  ![image](./assets/image-nb1.png)
 
 So on this chart you can see the ideal size for a nano bubble is 100nm, Now if you recall that thought, the key frequency if at 100um would be too big for nano bubbles, Now if you look at the different ways to create nano bubbles!
 
@@ -61,27 +61,27 @@ So on this chart you can see the ideal size for a nano bubble is 100nm, Now if y
 
 - [article ref](https://www.nature.com/articles/s41598-018-38066-5)
 
-![image](https://github.com/open-scientific/MFMP-THOR/assets/13536174/08b50576-1eca-42b8-b398-b32962719975)
+![image](./assets/image-nb2.png)
 
 You will find that pressures changes  can create nano bubbles and the engine is creating vacuum pressure drop each cycle. By this process you can go from 100um to ~100nm, repeatedly shrinking and expanding the bubbles down into nano bubbles until they collapse with cavitation effects adding heat and more excited electrons by the water hammer shock.  
 
-![image](https://github.com/open-scientific/MFMP-THOR/assets/13536174/a28f59ec-3f06-4121-a5ae-3f90d336c8a9)
+![image](./assets/image-nb3.png)
 
 We should certainly have water vapour by this point and water molecules can act as charge carriers, we need carbon which could come from the steel as the bubbles collapse. 
 
 #### Bubble Lifecycle
 
-![image](https://github.com/open-scientific/MFMP-THOR/assets/13536174/7209e704-fa73-4023-9906-0cc6c497916a)
+![image](./assets/image-nb4.png)
 
-![image](https://github.com/open-scientific/MFMP-THOR/assets/13536174/30829bc5-d2ce-4122-9244-43d079385d53)
+![image](./assets/image-nb5.png)
 
-![image](https://github.com/open-scientific/MFMP-THOR/assets/13536174/7411eae2-50a5-4981-8b9a-66dd028e21b7)
+![image](./assets/image-nb6.png)
 
 Photon emmission pre bubble deformation as depicted by the redish bubbles.
 
 Also under normal non-ionised condition the gas bubble is surrounded by negative charges, when ionised this charge is inverted to positive charges.
 
-![image](https://github.com/open-scientific/MFMP-THOR/assets/13536174/f047510f-6148-4219-a292-32f24fa421c5)
+![image](./assets/image-nb7.png)
 
 long lived nano bubbles require ionised gasses to bind at the gas/liquid interface (need to refind ref).
 
@@ -100,20 +100,20 @@ We found a number of videos showing ultrasonic devices usually for emulsifiers, 
 We found a few different geometry based devices to create nano bubbles, these all need a flow of water and perhaps certain flow rates. 
 We like these since they mostly tie into sacred geometry, so we used the windhexe as an example to refer and found the oxydoser.com to be of similar design. Our favourite is from https://globalcavitation.com 
 
-![image](https://github.com/open-scientific/MFMP-THOR/assets/13536174/20fdbcfd-7177-48d2-a4cf-e53622173d60)
+![image](./assets/image-nb8.png)
 
 Other designs were of venturi tubes with and without air lines, they leverage acoustic hydrodynamic pressure changes. Also to note were hydrosonic pumps.
 Vortex cavitation is more agressive than spherical cavitation. Vortex cavitation causes luminescence! sound speed important.
 
 ## Heat Exchanger/Reactor
 
-The vortex claim, reminded ourself of modifications done to race cars so we investigate that and also consider water/steam injection in aviation and car history aka water doping. Bob Greenyer also introduces a new angle of Partial Oxidation in steam reforming with a nickel catalyst as well as the more exotic plasma transmutations.
+The vortex claim, makes one think of modifications done to race cars so we investigate that and also consider water/steam injection in aviation and car history aka water doping. Bob Greenyer also introduces a new angle of Partial Oxidation in steam reforming with a nickel catalyst as well as the possibility of more exotic lenr reactions.
 
 ### Exhaust vortex in racing
 
 Used to eliminate backpressures allowing the engine to breath it's next intake easily. vortexexhaust.com claims +10% BHP +10% Torque +3-8 MPG -33% Emissions. [US Patent 10,605,139](https://patents.google.com/patent/US10605139B2/en?oq=10605139)
 
-![image](https://github.com/open-scientific/MFMP-THOR/assets/13536174/aa6b7d2b-c114-48ee-b521-cbe3b1f44803)
+![image](./assets/image-he1.png)
 
 ### Water/Steam Injection
 
