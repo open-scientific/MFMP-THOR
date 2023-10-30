@@ -63,7 +63,7 @@ So on this chart you can see the ideal size for a nano bubble is 100nm, Now if y
 
 ![image](./assets/image-nb2.png)
 
-You will find that pressures changes  can create nano bubbles and the engine is creating vacuum pressure drop each cycle. By this process you can go from 100um to ~100nm, repeatedly shrinking and expanding the bubbles down into nano bubbles until they collapse with cavitation effects adding heat and more excited electrons by the water hammer shock.  
+You will find that pressures changes  can create nano bubbles and the engine is creating vacuum pressure drop each cycle. By this process you can go from 100um to ~100nm, repeatedly shrinking and expanding the bubbles down into nano bubbles until they collapse with cavitation effects adding heat and more excited electrons by the water hammer shock.  [See this video series on water hammer effects especially episode 5](https://www.youtube.com/watch?v=1E26PgIq9JM&list=PLCMwms24CHliNA9VLYjAYKugmygB67BeB)
 
 ![image](./assets/image-nb3.png)
 
@@ -108,6 +108,8 @@ We like these since they mostly tie into sacred geometry, so we used the windhex
 
 Other designs were of venturi tubes with and without air lines, they leverage acoustic hydrodynamic pressure changes. Also to note were hydrosonic pumps.
 Vortex cavitation is more agressive than spherical cavitation. Vortex cavitation causes luminescence! sound speed important.
+
+TODO: Add drawings for hydrosonic pump, oxydoser and venturi type tubes, turbine like stator structure and global cavitation device comparisons...
 
 ## Heat Exchanger/Reactor
 
