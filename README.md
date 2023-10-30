@@ -83,7 +83,11 @@ Also under normal non-ionised condition the gas bubble is surrounded by negative
 
 ![image](./assets/image-nb7.png)
 
-long lived nano bubbles require ionised gasses to bind at the gas/liquid interface (need to refind ref).
+long lived nano bubbles require ionised gasses to bind at the gas/liquid interface.
+
+[reference paper](https://www.scribd.com/document/325010384/Nano-Buble-Nozzle) 
+
+Excerpt, answers the UV question as to why it's needed. 'Stabilization as long lived nano bubbles occurs when ions bind to the gas/liquid interface, yet display full collapse and complete dissolution after several minutes in the absence of bound ions.'
 
 #### Other ways to create nano bubbles
 
