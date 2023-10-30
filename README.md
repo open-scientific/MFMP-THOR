@@ -121,7 +121,7 @@ TODO: Add drawings for hydrosonic pump, oxydoser and venturi type tubes, turbine
 
 ![image](./assets/schematic-change.png)
 
-What value does this component add to the system? The heat will add higher vibrational energy since that is what defines heat. So the incoming atoms will collect this radiation and move faster, more speed more collisions? particle accelarator. Some elements may change phases which may bring endothermic or exothermic chemical reactions.
+What value does this component add to the system? The heat will add higher vibrational energy, so the incoming atoms will collect this radiation and move faster, more speed, more collisions? like a particle accelarator as claimed. Heat will realign magnetic domains in metals (as witnesed with PPD* rods), will this field play a role in aiming particles? Some elements may change phases which may bring endothermic or exothermic chemical reactions.
 
 There is the claim of cooling in the centre of the reactor, could this be the endothermic chemical reaction, ?hydrogen steam reforming, partial oxidisation with a nickel catalyst 316L grade steel? (Need to better understand what Bob said).
 
@@ -154,3 +154,10 @@ There could be 3 modes, a basic mode, a chemical mode and an exotic mode. We don
 In basic mode; the UV and copper oxide will create some browns gas, the bubbler will aerosolise some water molecules, the heat exchanger will create steam and it's vortex aspects will help move the exhaust and intake charges. you may see +20% BHP +20% Torque +5-14 MPG -33% Emmissions, This is great!
 
 Our initial understanding was the bubbles played a key role and that the UV was to support their lifecycle to ensure they lived long enough to shrink and collapse more often. During bubble collapse a plasma state is reached, We understand that if there is enough potential energy that atoms can transmutate into heavier or lighter elements.  We need to better understand the chemistry and physics and what takes places from the heat exchanger onwards, our understanding is still developing.
+
+# Goals
+
+1. Run engine in MBD* configuration with laymans tooling.
+2. Show reduction in carbon monoxide.
+3. Increase runtime per x ml of fuel.
+4. Prove an effect beyond combustion.
