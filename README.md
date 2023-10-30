@@ -48,7 +48,7 @@ So by giving our air the strongest level of ionisation we are setting the gas up
 
 ![image](./assets/bubbler.png)
 
-Why is this component important, it has water stainless steel and bubbles? The main clue was a concern over the bubble size, So this lead to researching nano bubbles and cavitation or the latter lead to the former. 
+Why is this component important, it has water, stainless steel and bubbles? The main clue was a concern over the bubble size, So this lead to researching nano bubbles and cavitation or the latter lead to the former. A key concept to note is hydrodynamic shear, One wants to create as much as possible.
 
 ### Nano bubbles
 
@@ -161,3 +161,4 @@ Our initial understanding was the bubbles played a key role and that the UV was 
 2. Show reduction in carbon monoxide.
 3. Increase runtime per x ml of fuel.
 4. Prove an effect beyond combustion.
+5. Simplify reactor.
