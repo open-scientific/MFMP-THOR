@@ -103,7 +103,7 @@ Excerpt, answers the UV question as to why it's needed. 'Stabilization as long l
 
 ##### ultrasonics 
 
-We found a number of videos showing ultrasonic devices usually for emulsifiers, but did not explore this much further.
+We found a number of videos showing ultrasonic devices usually for emulsifiers, but did not explore this much further. 
 
 ##### Porosity
 
@@ -118,6 +118,22 @@ We like these since they mostly tie into sacred geometry, so we used the windhex
 
 Other designs were of venturi tubes with and without air lines, they leverage acoustic hydrodynamic pressure changes. Also to note were hydrosonic pumps.
 Vortex cavitation is more agressive than spherical cavitation. Vortex cavitation causes luminescence! sound speed important.
+
+##### plasmas
+
+A comment left by Raina, on the MFMP THOR project, had two videos, one of interest had the use of HV to create cold plasma for treating PFAS in water. This was similar to [plasma activated water video](https://www.youtube.com/watch?v=GLzjJNhMgwU) , it has anti-pest properties for first 15mins and elevated nitrogen after 30mins, we found during this set of research because the shape was similar to the windhexe design. Anyhow we have noted them in this document as they have interesting applications and may share traits with MBD*.
+
+[This video claims](https://www.youtube.com/watch?v=7f_LOepaanU);
+- Use of plasma jet
+- plasma is cold, does not boil water
+- Can tailor plasma to;
+  - Generate Ultrasound shockwaves(Are these nano bubbles?)
+  - Create UV light (Hot Arc?)
+  - Be cold (Helium Gas?)
+  - Be Hot (No Gasses?)
+
+[The Paper can be found here.](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/176434/jrgroele_1.pdf?sequence=1&isAllowed=y) it seems worthy of follow up and could an interesting experiment. We [found this on the peroxone process](https://www.x-mol.net/paper/article/679248)  
+
 
 TODO: Add drawings for hydrosonic pump, oxydoser and venturi type tubes, turbine like stator structure and global cavitation device comparisons...
 
