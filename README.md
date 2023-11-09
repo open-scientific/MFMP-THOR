@@ -123,7 +123,7 @@ Vortex cavitation is more agressive than spherical cavitation. Vortex cavitation
 
 A comment left by Raina, on the MFMP THOR project, had two videos, one of interest had the use of HV to create cold plasma for treating PFAS in water. This was similar to [plasma activated water video](https://www.youtube.com/watch?v=GLzjJNhMgwU) , it has anti-pest properties for first 15mins and elevated nitrogen after 30mins, we found during this set of research because the shape was similar to the windhexe design. Anyhow we have noted them in this document as they have interesting applications and may share traits with MBD*.
 
-[This video claims](https://www.youtube.com/watch?v=7f_LOepaanU);
+[PFAS treatment video claims](https://www.youtube.com/watch?v=7f_LOepaanU);
 - Use of plasma jet
 - plasma is cold, does not boil water
 - Can tailor plasma to;
