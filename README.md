@@ -40,9 +40,11 @@ Ok so looking at the diagrams 100nm is in that range, so the um could be a mista
 
 So by giving our air the strongest level of ionisation we are setting the gas up to form highly charged particles for the next phase of the system. By studying nano bubbles we were able to find a reference stating that this ionisation would also prevent the premature collapse of the nano bubbles, hold on to this thought. What Bob did highlight is that the copper oxide and UV would have a photoelectric and photocatalytic effect of splitting water into Browns gas if the air intake was moist enough but not too much so as to prevent charge clusters building up potential, perhaps even some moisture may work its way backwards from the bubbler.
 
-- [REF A](https://steril-aire.com/does-uv-light-generate-ozone/)
-- [REF B](https://www.oxidationtech.com/ozone/ozone-production/uv-lamp.html)
-- [REF C](http://solar-center.stanford.edu/about/uvlight.html)
+- [REF UV-1](https://steril-aire.com/does-uv-light-generate-ozone/)
+- [REF UV-2](https://www.oxidationtech.com/ozone/ozone-production/uv-lamp.html)
+- [REF UV-3](http://solar-center.stanford.edu/about/uvlight.html)
+- [REF Atmosphere](https://byjus.com/physics/atmosphere/)
+- [REF CNO](https://www.atnf.csiro.au/outreach/education/senior/astrophysics/stellarevolution_mainsequence.html)
 
 ## Bubbler
 
@@ -73,7 +75,9 @@ You will find that pressures changes  can create nano bubbles and the engine is 
 
 ![image](./assets/image-nb3.png)
 
-We should certainly have water vapour by this point and water molecules can act as charge carriers, we need carbon which could come from the steel as the bubbles collapse. 
+We should certainly have water vapour by this point and water molecules can act as charge carriers, we need carbon which could come from the steel as the bubbles collapse, and oxygen 21% and nitrogen 78% come from the atmosphere, if water is split then we can obtain hydrogen, thus all the ingredients for the CNO cycle.
+
+![image](./assets/image-nb3a.png)
 
 #### Bubble Lifecycle
 
@@ -153,12 +157,12 @@ There could be 3 modes, a basic mode, a chemical mode and an exotic mode. We don
 
 In basic mode; the UV and copper oxide will create some browns gas, the bubbler will aerosolise some water molecules, the heat exchanger will create steam and it's vortex aspects will help move the exhaust and intake charges. you may see +20% BHP +20% Torque +5-14 MPG -33% Emmissions, This is great!
 
-Our initial understanding was the bubbles played a key role and that the UV was to support their lifecycle to ensure they lived long enough to shrink and collapse more often. During bubble collapse a plasma state is reached, We understand that if there is enough potential energy that atoms can transmutate into heavier or lighter elements.  We need to better understand the chemistry and physics and what takes places from the heat exchanger onwards, our understanding is still developing.
+Our initial understanding was the bubbles played a key role and that the UV was to support their lifecycle to ensure they lived long enough to shrink and collapse more often. During bubble collapse a plasma state is reached, We understand that if there is enough potential energy that atoms can transmutate into heavier or lighter elements.  We need to better understand the chemistry and physics and what takes place from the heat exchanger onwards, our understanding is still developing.
 
 # Goals
 
-1. Run engine in MBD* configuration with laymans tooling.
-2. Show reduction in carbon monoxide.
-3. Increase runtime per x ml of fuel.
-4. Prove an effect beyond combustion.
-5. Simplify reactor.
+1. [ ] Run engine in MBD* configuration with laymans tooling.
+2. [ ] Show reduction in carbon monoxide.
+3. [ ] Increase runtime per x ml of fuel.
+4. [ ] Prove an effect beyond combustion.
+5. [ ] Simplify reactor to nearer PPD* complexity.
