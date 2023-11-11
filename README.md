@@ -181,4 +181,8 @@ Our initial understanding was the bubbles played a key role and that the UV was 
 2. [ ] Show reduction in carbon monoxide.
 3. [ ] Increase runtime per x ml of fuel.
 4. [ ] Prove an effect beyond combustion.
+  - Witness marks(?wire/foil added inside reactor??).
+  - Embedded EVOs of reactor helping 3rd engine.
 5. [ ] Simplify reactor to nearer PPD* complexity.
+6. [ ] Factory default out of box, magnetic mapping of reactor(Important data before using).
+7. [ ] Stock engine gas measurements.
