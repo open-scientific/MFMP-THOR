@@ -186,3 +186,7 @@ Our initial understanding was the bubbles played a key role and that the UV was 
 5. [ ] Simplify reactor to nearer PPD* complexity.
 6. [ ] Factory default out of box, magnetic mapping of reactor(Important data before using).
 7. [ ] Stock engine gas measurements.
+8. [ ] Laser test - bubbler fluid
+    - [ ] (New)
+    - [ ] Runtime X
+
