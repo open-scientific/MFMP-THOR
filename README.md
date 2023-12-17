@@ -177,16 +177,19 @@ Our initial understanding was the bubbles played a key role and that the UV was 
 
 # Goals
 
-1. [ ] Run engine in MBD* configuration with laymans tooling.
-2. [ ] Show reduction in carbon monoxide.
+1. [x] Run engine in MBD* configuration with laymans tooling.
+2. [x] Show reduction in carbon monoxide (See Evidence point 1).
 3. [ ] Increase runtime per x ml of fuel.
-4. [ ] Prove an effect beyond combustion.
+4. [x] Prove an effect beyond combustion (See Evidence point 1).
   - Witness marks(?wire/foil added inside reactor??).
   - Embedded EVOs of reactor helping 3rd engine.
-5. [ ] Simplify reactor to nearer PPD* complexity.
+5. [x] Simplify reactor to nearer PPD* complexity (See Evidence point 1).
 6. [ ] Factory default out of box, magnetic mapping of reactor(Important data before using).
 7. [ ] Stock engine gas measurements.
 8. [ ] Laser test - bubbler fluid
     - [ ] (New)
     - [ ] Runtime X
 
+# Evidence
+
+1. https://ody.sh/4R5Pf2Uae4  
