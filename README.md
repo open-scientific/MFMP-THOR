@@ -200,12 +200,12 @@ Our initial understanding was the bubbles played a key role and that the UV was 
 
 # Evidence
 
-1. https://ody.sh/4R5Pf2Uae4
-2. https://www.youtube.com/watch?v=GE2OIdYdFNs
-3. https://www.youtube.com/watch?v=A3ghKHIATws
-4. https://ody.sh/4R5Pf2Uae4
-5. ![img](./assets/evidence/2nd-Run_16th-Ambient-Meters.jpg)
-6. ![Path](./assets/evidence/PathTrace.jpg)
+1. [First Video Cut Dec 16th](https://ody.sh/4R5Pf2Uae4)
+2. [MFMP Video Dec 16th](https://www.youtube.com/watch?v=GE2OIdYdFNs)
+3. [MFMP Video Slowmo Dec 16th](https://www.youtube.com/watch?v=A3ghKHIATws)
+4. [Walk Through Frames Dec 16th](https://ody.sh/iCUAhPrI7d)
+5. Dec 16th Run, Ambient Air readings. ![img](./assets/evidence/2nd-Run_16th-Ambient-Meters.jpg)
+6. Path Tracing. ![Path](./assets/evidence/PathTrace.jpg)
 7. ![Frame09](./assets/evidence/frame09.png)
 8. ![Frame10](./assets/evidence/frame10.png)
 9. ![Frame11](./assets/evidence/frame11.png)
