@@ -16,7 +16,7 @@ The MBD* system is very similar to the GEET system by Paul Pantone (PPD*), to wh
 
 ![image](./assets/Diagram-S.png)
 
-## UV - Ioniser 
+## UV - Energizer ~~Ioniser~~ 
 
 ![image](./assets/ioniser.png)
 
@@ -38,7 +38,7 @@ Ok so looking at the diagrams 100nm is in that range, so the um could be a mista
 - O2, Magnetic Moment x17860, is paramagnetic
 - O3, Magnetic Moment x680, is paramagnetic
 
-So by giving our air the strongest level of ionisation we are setting the gas up to form highly charged particles for the next phase of the system. By studying nano bubbles we were able to find a reference stating that this ionisation would also prevent the premature collapse of the nano bubbles, hold on to this thought. What Bob did highlight is that the copper oxide and UV would have a photoelectric and photocatalytic effect of splitting water into Browns gas if the air intake was moist enough but not too much so as to prevent charge clusters building up potential, perhaps even some moisture may work its way backwards from the bubbler.
+So by giving our air the strongest level of Spin > Energy ~~ionisation~~ we are setting the gas up to form highly charged particles for the next phase of the system. By studying nano bubbles we were able to find a reference stating that this ionisation would also prevent the premature collapse of the nano bubbles, hold on to this thought. What Bob did highlight is that the copper oxide and UV would have a photoelectric and photocatalytic effect of splitting water into Browns gas if the air intake was moist enough but not too much so as to prevent charge clusters building up potential, perhaps even some moisture may work its way backwards from the bubbler.
 
 - [REF UV-1](https://steril-aire.com/does-uv-light-generate-ozone/)
 - [REF UV-2](https://www.oxidationtech.com/ozone/ozone-production/uv-lamp.html)
@@ -65,6 +65,10 @@ Why is this component important, it has water, stainless steel and bubbles? The 
 
 So on this chart you can see the ideal size for a nano bubble is 100nm, Now if you recall that thought, the key frequency if at 100um would be too big for nano bubbles, Now if you look at the different ways to create nano bubbles!
 
+#### Hydro Dynamic Shear
+
+With enough turbulence and shear forces, bubbles can be torn apart into smaller bubbles. The simplest way to show this is with an aquarium pump of centrifugal design and an air pump and bubbles near the pumps entrypoint, the bubbles exiting will be a range from micro to nano, a laser will show these. The water can be bottled and left to settle (laser not may reveal NB once settled enough) and then thrown on floor to induce a shock and reveal nano bubbles to the laser once again. The process of sparging involves introducing bubbles into a liquid, in this case we use the stainless steel wire wool to induce turbulence and shear stresses to tear the bubbles into nano bubbles which may collapse and carry out desired effects. This is becoming the dominant idea/viewpoint as to whats happening in amongst the complexities. More on [Fluid Dynamics Here.](https://www.britannica.com/science/fluid-mechanics/Waves-on-shallow-water)
+
 #### Pressure Wave
 
 - [article ref](https://www.nature.com/articles/s41598-018-38066-5)
@@ -78,6 +82,8 @@ You will find that pressures changes  can create nano bubbles and the engine is 
 We should certainly have water vapour by this point and water molecules can act as charge carriers, we need carbon which could come from the steel as the bubbles collapse, and oxygen 21% and nitrogen 78% come from the atmosphere, if water is split then we can obtain hydrogen, thus all the ingredients for the CNO cycle.
 
 ![image](./assets/image-nb3a.png)
+
+This was the initial though however this view is moving away from this idea as the engine vacuum may not be high enough for this effect (but still helps vapourize water).  
 
 #### Bubble Lifecycle
 
@@ -118,6 +124,8 @@ We like these since they mostly tie into sacred geometry, so we used the windhex
 
 Other designs were of venturi tubes with and without air lines, they leverage acoustic hydrodynamic pressure changes. Also to note were hydrosonic pumps.
 Vortex cavitation is more agressive than spherical cavitation. Vortex cavitation causes luminescence! sound speed important.
+
+Our experiments 3d printing some of these designs have failed mainly due to the porosity of the prints and our unsuccessful attempts to seal them, or flow rates.  
 
 ##### plasmas
 
@@ -192,4 +200,7 @@ Our initial understanding was the bubbles played a key role and that the UV was 
 
 # Evidence
 
-1. https://ody.sh/4R5Pf2Uae4  
+1. https://ody.sh/4R5Pf2Uae4
+2. https://www.youtube.com/watch?v=GE2OIdYdFNs
+3. https://www.youtube.com/watch?v=A3ghKHIATws
+4. ![img](./assets/evidence/2nd-Run_16th-Ambient-Meters.jpg)
